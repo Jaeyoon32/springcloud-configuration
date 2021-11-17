@@ -1,0 +1,3 @@
+config:
+  where: dev
+  message: Hello bata
